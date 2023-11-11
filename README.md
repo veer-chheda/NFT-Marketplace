@@ -10,7 +10,7 @@ A NFT Marketplace to buy, sell your artworks.
 
 **Please turn off adblockers before testing**
 
-https://nftstop/netlify.app
+https://nftstop.netlify.app
 
 <img width="1464" alt="Screenshot 2023-11-11 at 3 01 10 PM" src="https://github.com/veer-chheda/NFT-Marketplace/assets/114056626/8a17fb5b-0c1c-4bf0-ab3c-278d3dc22fc1">
 
